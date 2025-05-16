@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Chinmaya Basavaraja
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning ReactJS
 - 📫 How to reach me kademanec@gmail.com
 
 <!---
